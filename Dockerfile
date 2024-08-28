@@ -24,6 +24,7 @@ RUN \
     libcap-utils \
     libqrencode-tools \
     net-tools \
+    nmap \
     openresolv \
     wireguard-tools && \
   echo "wireguard" >> /etc/modules && \
